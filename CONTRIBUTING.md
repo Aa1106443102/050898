@@ -12,22 +12,22 @@ Please note that this project is released with a [Contributor Code of Conduct](C
 
 As we mentioned in the README, we're mostly looking for contributions to a few of our policies, which are listed below. However, just because a policy is on the list, it does not mean that the terms are flexible. The current Terms of Service can found on our website, at https://docs.github.com/github/site-policy/github-terms-of-service, and all Users must agree to them before using our website. We've opened this repo to provide more transparency around the updates to those Terms of Service, to allow you all to help us improve them, and to do so the GitHub way. Here are the policies we're currently hoping you'll contribute to:
 
-* [GitHub Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service)
-* [GitHub Acceptable Use Policies](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-acceptable-use-policies)
-* [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
-* [GitHub Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement)
-* [GitHub Global Privacy Practices](https://docs.github.com/github/site-policy/global-privacy-practices)
-
+- [GitHub Terms of Service](https://docs.github.com/github/site-policy/github-terms-of-service)
+- [GitHub Acceptable Use Policies](https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-acceptable-use-policies)
+- [GitHub Community Guidelines](https://docs.github.com/en/github/site-policy/github-community-guidelines)
+- [GitHub Privacy Statement](https://docs.github.com/github/site-policy/github-privacy-statement)
+- [GitHub Global Privacy Practices](https://docs.github.com/github/site-policy/global-privacy-practices)
 
 The two main ways to contribute are through issues and pull requests. We've [open sourced GitHub Docs](https://github.blog/2020-10-07-github-docs-are-now-open-source/) and now seek pull request in the [GitHub Docs repo](https://github.com/github/docs). To track site-policy changes, we ask you to open issues in this repo, and we've made a [template](https://github.com/github/site-policy/issues/new) to request information that will help us better understand your feedback.
+
 ## Help Wanted
 
 Before you decide to open an issue, browse [open issues](https://github.com/github/site-policy/issues) to see current requests. We also generally want to hear about:
 
-* International issues with our policies
-* Typos
-* Clearer wording
-* Other sites that have adapted and reused some of our policies
+- International issues with our policies
+- Typos
+- Clearer wording
+- Other sites that have adapted and reused some of our policies
 
 [Open an issue](https://github.com/github/site-policy/issues/new) to tell us about any of the above. You may also open a pull request to propose specific changes, but it's always OK to start with an issue.
 
